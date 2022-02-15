@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './HeaderCartButton.module.css';
-import CartIcon from '../Card/CartIcon';
+import CartIcon from '../Cart/CartIcon';
 
 const HeaderCartButton = () => {
   return (
